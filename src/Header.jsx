@@ -2,9 +2,9 @@
 
 export const Header = () => {
   return (
-    <head>
-      <title>Dogアプリ</title>
-    </head>
+    <header className="header">
+      ヘッダー
+    </header>  
   )
 }
 
